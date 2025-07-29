@@ -15,6 +15,16 @@ The project uses **Python’s standard library**, so no additional libraries are
 ---
 
 ## **🚀 Usage**
-▶️ **Run the application:**  
+1. **Run the application:**  
 ```bash
 python bmicalculator.py
+
+2. **Calculate BMI:**
+
+• Enter your name, weight (kg), and height (m)
+• Click “Calculate BMI” or press Enter to see your BMI and its category
+
+## **Product Structure**
+
+BMI Calculator/
+└── bmicalculator.py
