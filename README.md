@@ -1,21 +1,14 @@
-# 🧮 **BMI Calculator (Tkinter)**
+# 🧮 **BMI Calculator**
 
 ## **📌 Overview**
-Simple **BMI (Body Mass Index) Calculator** built using **Python Tkinter**.  
-Input weight and height, calculate BMI, and see the category: **Underweight**, **Normal**, **Overweight**, or **Obesity**.
+This is a simple **BMI (Body Mass Index) Calculator** built using **Python’s Tkinter library**.  
+The application allows users to input their weight and height, calculate their BMI, and classify it as **Underweight**, **Normal weight**, **Overweight**, or **Obesity**.
 
 ---
 
-## **✨ Key Features**
-- ✅ Simple Tkinter GUI  
-- ✅ Input weight (kg) & height (m)  
-- ✅ Calculates BMI & category  
-- ✅ Basic input validation  
-- ✅ Shows BMI history (demo)
-
----
-
-## **⚙️ How to Use**
-1️⃣ **Clone repo:**  
-```bash
-git clone https://github.com/YourUsername/BMI-Calculator.git
+## **✨ Features**
+- ✅ User-friendly graphical interface (GUI) built with Tkinter  
+- ✅ Input fields for weight (in kilograms) and height (in meters)  
+- ✅ Displays the calculated BMI and provides classification  
+- ✅ Handles errors for invalid input (e.g., negative values or non-numeric inputs)  
+- ✅ Stores and prints historical BMI data for demonstration
