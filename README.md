@@ -18,9 +18,11 @@ This is a simple BMI (Body Mass Index) Calculator built using Python’s `Tkinte
    Make sure Python is installed on your system.
 
 2. **Clone this repository:**
-
-   ## ▶️ Clone this Repository
-
 ```bash
 git clone https://github.com/Fazeelfsb/Oasis-InfoByte-Python-Tasks.git
 cd Oasis-InfoByte-Python-Tasks
+
+```
+3. **Run the Application:**
+```bash
+python bmi_calculator.py
