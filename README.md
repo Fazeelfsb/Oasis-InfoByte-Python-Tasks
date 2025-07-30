@@ -20,4 +20,3 @@ This is a simple BMI (Body Mass Index) Calculator built using Python’s `Tkinte
 2. **Clone this repository:**
 
    git clone <https://github.com/Fazeelfsb/Oasis-InfoByte-Python-Tasks.git>
-cd <project-directory>
