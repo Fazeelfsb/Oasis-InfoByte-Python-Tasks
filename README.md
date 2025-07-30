@@ -53,3 +53,13 @@ python bmi_calculator.py
 ## 👤 Author
 
 Developed by [Fazeel Shabir](https://www.linkedin.com/in/fazeel-shabir-51b98b375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## Key Sections:
+Overview: Brief explanation of what the project is.
+Features: Key features of the BMI calculator.
+How to Use: Step-by-step instructions to clone the repo and run the code.
+Requirements: Mention of Python and Tkinter.
+Project Structure: Overview of the project files.
+Screenshots: Optionally, you can add screenshots for a visual guide.
+Future Improvements: Ideas for expanding the project.
+License and Author: Basic information about the project and your profile.
