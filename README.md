@@ -29,6 +29,7 @@ python bmi_calculator.py
 ```
 4. Enter your weight and height in the appropriate fields, then click on the “Calculate BMI” button. The application will display your BMI and classification.
 
+
 ## ⚙️ Requirements
 
 - Python 3.x 
@@ -49,6 +50,7 @@ python bmi_calculator.py
 - Add graphs or charts to show BMI trends over time.
 - Improve the GUI design with modern themes.
 - Create an installer so users don’t need to run Python manually.
+
 
 ## 👤 Author
 
