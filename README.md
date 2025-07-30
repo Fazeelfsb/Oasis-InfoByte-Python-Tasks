@@ -18,9 +18,11 @@ The project uses **Python’s standard library**, so no additional libraries are
 1. **Run the application:**  
 ```bash
 python bmicalculator.py
-
+```
 ---
 
 2. **Calculate BMI:**
    - Enter your **name**, **weight** (in kilograms), and **height** (in meters) in the app’s input fields.
    - Click the **“Calculate BMI”** button or press **Enter** to see your BMI result and its category.
+
+---
