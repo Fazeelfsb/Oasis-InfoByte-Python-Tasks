@@ -64,4 +64,4 @@ Developed by [Fazeel Shabir](https://www.linkedin.com/in/fazeel-shabir-51b98b375
 - Project Structure: Overview of the project files.
 - Screenshots: Optionally, you can add screenshots for a visual guide.
 - Future Improvements: Ideas for expanding the project.
-- License and Author: Basic information about the project and your profile.
+  
