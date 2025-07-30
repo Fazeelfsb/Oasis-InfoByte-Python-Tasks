@@ -37,8 +37,19 @@ python bmi_calculator.py
 ## 📂 Project Structure
 
 ```plaintext
-Oasis-InfoByte-Python-Tasks/
  ├── README.md           # Project documentation
  ├── bmi_calculator.py   # Main Python script for the BMI Calculator
- 
- 
+
+```
+
+## Future Improvements
+
+- Add support for pounds (lbs) and inches with automatic conversion to metric.
+- Save and display users’ historical BMI records.
+- Add graphs or charts to show BMI trends over time.
+- Improve the GUI design with modern themes.
+- Create an installer so users don’t need to run Python manually.
+
+## 👤 Author
+
+Developed by [Fazeel Shabir](https://www.linkedin.com/in/fazeel-shabir-51b98b375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
