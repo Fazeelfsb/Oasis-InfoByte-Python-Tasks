@@ -26,3 +26,5 @@ cd Oasis-InfoByte-Python-Tasks
 3. **Run the Application:**
 ```bash
 python bmi_calculator.py
+```
+4. Enter your weight and height in the appropriate fields, then click on the “Calculate BMI” button. The application will display your BMI and classification.
