@@ -28,3 +28,17 @@ cd Oasis-InfoByte-Python-Tasks
 python bmi_calculator.py
 ```
 4. Enter your weight and height in the appropriate fields, then click on the “Calculate BMI” button. The application will display your BMI and classification.
+
+## ⚙️ Requirements
+
+- Python 3.x 
+- `Tkinter` library (comes pre-installed with Python)
+
+## 📂 Project Structure
+
+```plaintext
+Oasis-InfoByte-Python-Tasks/
+ ├── README.md           # Project documentation
+ ├── bmi_calculator.py   # Main Python script for the BMI Calculator
+ 
+ 
